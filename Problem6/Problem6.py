@@ -1,4 +1,4 @@
-#!/bin/python3
+#Given strings of brackets, determine whether each sequence of brackets is balanced. If a string is balanced, print YES on a new line; otherwise, print NO on a new line.
 
 def check(ip):
     stk = [] # initialise a list as stack
